@@ -9,8 +9,7 @@ const Skills = () => (
     </div>
 
     <div className="nine columns main-col">
-      <p>Skill Description Here</p>
-
+      <p> For Project Details you can see my resume on about section.</p>
       <div className="bars">
         <ul className="skills">
           <li>
@@ -28,10 +27,6 @@ const Skills = () => (
           <li>
             <span className="bar-expand html5" />
             <em>HTML5</em>
-          </li>
-          <li>
-            <span className="bar-expand illustrator" />
-            <em>Illustrator</em>
           </li>
           <li>
             <span className="bar-expand nodejs" />
