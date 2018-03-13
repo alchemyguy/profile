@@ -16,6 +16,20 @@ const Education = () => (
             Computer Science And Engineering<span>&bull;</span>
             <em className="date">August 2012 - July 2016</em>
           </p>
+                
+        </div>
+      </div>
+    </div>
+
+    <div className="nine columns main-col">
+      <div className="row item">
+        <div className="twelve columns">
+          <h3>Maharishi Vidya Mandir</h3>
+          <p className="info">
+            Intermediate & High School<span>&bull;</span>
+            <em className="date">March 2010 - April 2016</em>
+          </p>
+          
         </div>
       </div>
     </div>

@@ -13,7 +13,7 @@ const OpenSource = () => (
         <div className="twelve columns">
           <h3>Youtube laravel Api</h3>
           <p className="info">
-            <a href="https://packagist.org/packages/alchemyguy/youtube-laravel-api">packagist link</a>
+            <a href="https://packagist.org/packages/alchemyguy/youtube-laravel-api" target="_blank">packagist link</a>
           </p>
           <p>
           It is a wrapper over Youtube Api v3 which simplifies functionalities the laravel way.
@@ -26,7 +26,7 @@ const OpenSource = () => (
         <div className="twelve columns">
           <h3>Youtube Livestream Api</h3>
           <p className="info">
-            <a href="https://packagist.org/packages/sahusoftcom/youtube-livestream-api">packagist link</a>
+            <a href="https://packagist.org/packages/sahusoftcom/youtube-livestream-api" target="_blank">packagist link</a>
           </p>
           <p>PHP (Laravel) Package for Google / YouTube API of Video Live Streaming with Google Auth.
 

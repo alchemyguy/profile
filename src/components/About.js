@@ -17,7 +17,8 @@ const About = () => (
               Software Enthusiast | Traveller | Musician | Anime Lover
             </em>
           </b>
-        <p>I am Software Enthusiast eager to learn new technologies and explore the world of Computer Science. Watching anime, listening to metal music & writing music are fuel to my happiness. Travelling is a stress buster and helps me think better.</p>
+        <p>I am a graduate in Computer Science from this beautiful college located amid the Kumaon Hills. Have worked with <a herf="geekyants.com"  target="_blank">GeekyAnts</a> for a year and a half, its been an amazing journey till now and have learnt a lot and met great people there. 
+         I am eager to learn new technologies and explore the world of Computer Science. Watching anime, listening to metal music & writing music are fuel to my happiness. Travelling is a stress buster and helps me think better.</p>
         </p>
         <div className="row">
           <div className="columns contact-details">
