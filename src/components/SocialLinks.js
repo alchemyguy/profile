@@ -5,15 +5,31 @@ import {
   FaGooglePlus,
   FaInstagram,
   FaTwitter,
-  FaMedium
+  FaMedium,
+  FaLinkedin
 } from "react-icons/lib/fa";
 // https://gorangajic.github.io/react-icons/fa.html
 
 const SocialLinks = () => (
   <ul className="social">
     <li>
+      <a href="https://github.com/alchemyguy" target="_blank">
+        <FaGithub />
+      </a>
+    </li>
+    <li>
+      <a href="https://medium.com/@alchemyguy" target="_blank">
+        <FaMedium />
+      </a>
+    </li>
+    <li>
       <a href="https://facebook.com/1478984995549653" target="_blank">
         <FaFacebook />
+      </a>
+    </li>
+    <li>
+      <a href="https://www.instagram.com/alchemyguy" target="_blank">
+        <FaInstagram />
       </a>
     </li>
     <li>
@@ -30,18 +46,8 @@ const SocialLinks = () => (
       </a>
     </li>
     <li>
-      <a href="https://www.instagram.com/alchemyguy" target="_blank">
-        <FaInstagram />
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/alchemyguy" target="_blank">
-        <FaGithub />
-      </a>
-    </li>
-    <li>
-      <a href="https://medium.com/@alchemyguy" target="_blank">
-        <FaMedium />
+      <a href="https://www.linkedin.com/in/alchemyguy" target="_blank">
+        <FaLinkedin />
       </a>
     </li>
   </ul>
