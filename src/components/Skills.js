@@ -44,6 +44,10 @@ const Skills = () => (
             <span className="bar-expand extension" />
             <em>Web Extensions (Chrome, FireFox, IE)</em>
           </li>
+          <li>
+            <span className="bar-expand laravel" />
+            <em>Search Engine Optimization (SEO)</em>
+          </li>
         </ul>
       </div>
     </div>
